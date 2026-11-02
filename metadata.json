@@ -1,0 +1,8 @@
+{
+  "name": "Remix POS \u0026 80mm Fiscal Receipt Printer",
+  "description": "Point of Sale (POS) system designed for retail with exact 80mm thermal receipt printing, fiscal tax invoice formatting, inventory, and sales history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

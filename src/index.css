@@ -1,0 +1,110 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-slate-100 text-slate-800 antialiased min-h-screen;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+}
+
+/* Custom thermal receipt monospace font styling with bold high-contrast letters */
+.font-receipt {
+  font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
+  font-weight: 700;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Realistic thermal paper styling */
+.thermal-paper {
+  background-color: #fafaf9;
+  box-shadow: 0 15px 35px -5px rgba(0, 0, 0, 0.25), 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+.tear-edge {
+  background-image: repeating-linear-gradient(45deg, transparent, transparent 3px, #ffffff 3px, #ffffff 6px);
+}
+
+/* Hide printable container on screen */
+@media screen {
+  .printable-area {
+    display: none !important;
+  }
+}
+
+/* Print Styles for 80mm POS Thermal Printers */
+@media print {
+  @page {
+    /* 80mm standard receipt paper with continuous roll feed */
+    size: 80mm auto;
+    margin: 0mm;
+  }
+
+  html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Hide all UI elements when printing */
+  .no-print {
+    display: none !important;
+  }
+
+  /* Display only the printable thermal receipt with original flex/grid layout */
+  .printable-area {
+    display: block !important;
+    visibility: visible !important;
+    position: absolute !important;
+    left: 0 !important;
+    top: 0 !important;
+    width: 78mm !important;
+    max-width: 78mm !important;
+    margin: 0 !important;
+    padding: 2mm 2mm 6mm 2mm !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-weight: 800 !important;
+    box-shadow: none !important;
+    border: none !important;
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  .printable-area * {
+    visibility: visible !important;
+  }
+
+  .printable-area .bg-black,
+  #printable-receipt .bg-black {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  .printable-area .bg-black *,
+  #printable-receipt .bg-black * {
+    color: #ffffff !important;
+  }
+
+  /* Physical Auto-cut signals to POS Thermal printer drivers under Verification and at the end of the invoice */
+  .pos-cut-verification,
+  .pos-cut-end {
+    break-after: page !important;
+    page-break-after: always !important;
+    display: block !important;
+  }
+
+  /* Bundle summary less dark styling in print */
+  .bundle-summary-section,
+  .bundle-summary-section * {
+    font-weight: 400 !important;
+    color: #444444 !important;
+    -webkit-text-stroke: 0px transparent !important;
+  }
+}

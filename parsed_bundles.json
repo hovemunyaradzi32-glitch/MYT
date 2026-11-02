@@ -1,0 +1,2438 @@
+[
+  {
+    "type": "SCALING",
+    "name": "ABBIAMO BROWN VINEGA",
+    "componentsCount": 1,
+    "price": 3,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "ABBIAMO WHITE VINEGAR",
+    "componentsCount": 1,
+    "price": 3,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "ALOHA 12 X 1KG",
+    "componentsCount": 1,
+    "price": 27,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "ALOHA 500G X 24",
+    "componentsCount": 1,
+    "price": 27,
+    "discount": 9
+  },
+  {
+    "type": "SCALING",
+    "name": "ALOHA W/P 8 X 2KG",
+    "componentsCount": 1,
+    "price": 34,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "AMAZON BALLGUMS 12X2",
+    "componentsCount": 1,
+    "price": 20,
+    "discount": 10
+  },
+  {
+    "type": "SCALING",
+    "name": "AMAZON CHOC ECLAIR P",
+    "componentsCount": 1,
+    "price": 25,
+    "discount": 3.8
+  },
+  {
+    "type": "SCALING",
+    "name": "AMAZON MONSTA POPS 1",
+    "componentsCount": 1,
+    "price": 30,
+    "discount": 10.32
+  },
+  {
+    "type": "SCALING",
+    "name": "AMAZON SHORTBREAD 32",
+    "componentsCount": 1,
+    "price": 13.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "AMAZON TOFFEE 50 X 12 P",
+    "componentsCount": 1,
+    "price": 23.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "ANGEL CARE TISSUE 18RO",
+    "componentsCount": 1,
+    "price": 7.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "ANGEL CARE TISSUE 9 RO",
+    "componentsCount": 1,
+    "price": 4,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "APPY DRINK 500MLX12",
+    "componentsCount": 1,
+    "price": 5,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "APRICOT",
+    "componentsCount": 1,
+    "price": 24,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "AQUA CLEAR 24 X 500ML",
+    "componentsCount": 1,
+    "price": 3,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "ARENEL CREAMS 12 X 150G",
+    "componentsCount": 1,
+    "price": 4,
+    "discount": 0.2
+  },
+  {
+    "type": "SCALING",
+    "name": "AROMA NOODLES BOX",
+    "componentsCount": 1,
+    "price": 8,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "ASHNA VALUE RICE 10X2K",
+    "componentsCount": 1,
+    "price": 16.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "BALLYHOUSE BLEND APRI",
+    "componentsCount": 1,
+    "price": 13,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "BALLYHOUSE ORANGE/M",
+    "componentsCount": 1,
+    "price": 12,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "BALLYHOUSE RASBERRY/B",
+    "componentsCount": 1,
+    "price": 11,
+    "discount": 0.1
+  },
+  {
+    "type": "SCALING",
+    "name": "BANTLEY 20X50",
+    "componentsCount": 1,
+    "price": 90,
+    "discount": 110
+  },
+  {
+    "type": "SCALING",
+    "name": "BANTLEY 50 PCS",
+    "componentsCount": 1,
+    "price": 6,
+    "discount": 4
+  },
+  {
+    "type": "SCALING",
+    "name": "BASMAT 5x4 CASE",
+    "componentsCount": 1,
+    "price": 38,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "BETTER BUY SPAGHETTI 2",
+    "componentsCount": 1,
+    "price": 8.4,
+    "discount": 1.6
+  },
+  {
+    "type": "SCALING",
+    "name": "BETTERBUY MACARONI 3",
+    "componentsCount": 1,
+    "price": 14,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "BIG BEN LAUNDRY SOAP 1",
+    "componentsCount": 1,
+    "price": 14.8,
+    "discount": 3.2
+  },
+  {
+    "type": "SCALING",
+    "name": "BIG BOOM PACKET",
+    "componentsCount": 1,
+    "price": 3.5,
+    "discount": 1.3
+  },
+  {
+    "type": "SCALING",
+    "name": "BIG TREE CORNFLAKES 12",
+    "componentsCount": 1,
+    "price": 28,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "BIGTREE CORNFLAKES 12",
+    "componentsCount": 1,
+    "price": 40,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "BISKO BISC LOOSE 20X25",
+    "componentsCount": 1,
+    "price": 7.8,
+    "discount": 2.2
+  },
+  {
+    "type": "SCALING",
+    "name": "BISKO BLISS BITES 20X25",
+    "componentsCount": 1,
+    "price": 6.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "BISKO CRUNCHY COOKIES",
+    "componentsCount": 1,
+    "price": 7.8,
+    "discount": 2.2
+  },
+  {
+    "type": "SCALING",
+    "name": "BISKO GOAL LOOSE BISC 2",
+    "componentsCount": 1,
+    "price": 4.8,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "BLUE BAND 48 X 250G ORI",
+    "componentsCount": 1,
+    "price": 34.5,
+    "discount": 13.5
+  },
+  {
+    "type": "SCALING",
+    "name": "BLUE BAND LAW FAT 48 X",
+    "componentsCount": 1,
+    "price": 34.5,
+    "discount": 13.5
+  },
+  {
+    "type": "SCALING",
+    "name": "BONAQUA 12X500G",
+    "componentsCount": 1,
+    "price": 3,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "BONJOY BOX",
+    "componentsCount": 1,
+    "price": 45,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "BOOM WASHING POWDER",
+    "componentsCount": 1,
+    "price": 34.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "BOOM PASTE 20X200G",
+    "componentsCount": 1,
+    "price": 10,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "BOOM W/POWDER 24 X50",
+    "componentsCount": 1,
+    "price": 27,
+    "discount": 9
+  },
+  {
+    "type": "SCALING",
+    "name": "BOOM WASH POWDER 12X",
+    "componentsCount": 1,
+    "price": 27,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "BRANDS BAKED BEANS 41",
+    "componentsCount": 1,
+    "price": 10,
+    "discount": 0.8
+  },
+  {
+    "type": "SCALING",
+    "name": "BRITE LITE 12X1KG",
+    "componentsCount": 1,
+    "price": 14.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "BRITE LITE 24X1KG",
+    "componentsCount": 1,
+    "price": 30,
+    "discount": 6
+  },
+  {
+    "type": "SCALING",
+    "name": "BROADROOT COOKIES BOX",
+    "componentsCount": 1,
+    "price": 8,
+    "discount": 152
+  },
+  {
+    "type": "SCALING",
+    "name": "BULLBRANDS C-MEAT 30",
+    "componentsCount": 1,
+    "price": 12,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "BUSSBITE 20X180G",
+    "componentsCount": 1,
+    "price": 6.5,
+    "discount": 123.5
+  },
+  {
+    "type": "SCALING",
+    "name": "BUTTER CUP MARGARINE",
+    "componentsCount": 1,
+    "price": 45.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "BUTTER CUP MARGERINE",
+    "componentsCount": 1,
+    "price": 23,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "BWANA POPCORN 10X50",
+    "componentsCount": 1,
+    "price": 5.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "C & B MAYO 12X780G",
+    "componentsCount": 1,
+    "price": 31,
+    "discount": 5
+  },
+  {
+    "type": "SCALING",
+    "name": "C & B MAYO 6X780G",
+    "componentsCount": 1,
+    "price": 15.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CAKE BALE 12(40GX10)",
+    "componentsCount": 1,
+    "price": 9.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CAPRI RICE PARBOILED 10",
+    "componentsCount": 1,
+    "price": 16.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CAPRI SPAGHETTI 20 X 40",
+    "componentsCount": 1,
+    "price": 8,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "CAPTAIN GINGER WISE 24",
+    "componentsCount": 1,
+    "price": 11,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "CARTWRIGHT SOUP 12 X 7",
+    "componentsCount": 1,
+    "price": 3,
+    "discount": 0.96
+  },
+  {
+    "type": "SCALING",
+    "name": "CARTWRIGHT SOUP 6 X 12",
+    "componentsCount": 1,
+    "price": 18,
+    "discount": 5.76
+  },
+  {
+    "type": "SCALING",
+    "name": "CARTWRIGHT SPAGHETII",
+    "componentsCount": 1,
+    "price": 8,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "CASCADE 400MLX 20",
+    "componentsCount": 1,
+    "price": 9.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CASHEL VALLEY 410GX12",
+    "componentsCount": 1,
+    "price": 11,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "CASHEL VALLEY TOMATO",
+    "componentsCount": 1,
+    "price": 18,
+    "discount": 1.2
+  },
+  {
+    "type": "COMBO",
+    "name": "CERA GLOW OIL + ARTHU",
+    "componentsCount": 2,
+    "price": 13,
+    "discount": 5.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CERELAC 24X200G",
+    "componentsCount": 1,
+    "price": 47,
+    "discount": 1
+  },
+  {
+    "type": "COMBO",
+    "name": "CERELAC 500G X6",
+    "componentsCount": 1,
+    "price": 25,
+    "discount": 5
+  },
+  {
+    "type": "COMBO",
+    "name": "CERELAC 500GX12",
+    "componentsCount": 1,
+    "price": 50,
+    "discount": 10
+  },
+  {
+    "type": "SCALING",
+    "name": "CERELAC 6X200G",
+    "componentsCount": 1,
+    "price": 11.75,
+    "discount": 0.25
+  },
+  {
+    "type": "SCALING",
+    "name": "CEREVITA 24X500G",
+    "componentsCount": 1,
+    "price": 67,
+    "discount": 5
+  },
+  {
+    "type": "SCALING",
+    "name": "CHARHONS 10 X 5OOG",
+    "componentsCount": 1,
+    "price": 12.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CHARHONS 4X2KG",
+    "componentsCount": 1,
+    "price": 19.5,
+    "discount": 4.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CHARHONS 5 X 1KG",
+    "componentsCount": 1,
+    "price": 13.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CHARHONS ATHLONE LOO",
+    "componentsCount": 1,
+    "price": 13.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CHARHONS ATHLONE LOO",
+    "componentsCount": 1,
+    "price": 12.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CHARHONS ATHLONE LOO",
+    "componentsCount": 1,
+    "price": 19.5,
+    "discount": 4.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CHARHONS COATED BISC",
+    "componentsCount": 1,
+    "price": 9.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CHELSEA COOKIES 150GX12",
+    "componentsCount": 1,
+    "price": 9.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CHOC COATED 12X250G",
+    "componentsCount": 1,
+    "price": 16.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CHOMPKINS 12X100G",
+    "componentsCount": 1,
+    "price": 13.5,
+    "discount": 4.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CHOMPKINS 12X120G",
+    "componentsCount": 1,
+    "price": 13.5,
+    "discount": 0.9
+  },
+  {
+    "type": "SCALING",
+    "name": "COCA COLA 6 X 2L",
+    "componentsCount": 1,
+    "price": 10,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "COCO ZIM BISCUITS 20 X",
+    "componentsCount": 1,
+    "price": 6.5,
+    "discount": 0.1
+  },
+  {
+    "type": "SCALING",
+    "name": "COLGATE 12 X 50ML",
+    "componentsCount": 1,
+    "price": 5.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "COLGATE 12X100ML PREP",
+    "componentsCount": 1,
+    "price": 10,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "COLGATE 6 X 12 X 50ML",
+    "componentsCount": 1,
+    "price": 33,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "COLGATE 6X12X100G BOX",
+    "componentsCount": 1,
+    "price": 55,
+    "discount": 17
+  },
+  {
+    "type": "SCALING",
+    "name": "COOKMORE 2LX8",
+    "componentsCount": 1,
+    "price": 26,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "COOKMORE RICE 10X2KG",
+    "componentsCount": 1,
+    "price": 19,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "CORNFLAKES 6X500G",
+    "componentsCount": 1,
+    "price": 11.2,
+    "discount": 0.8
+  },
+  {
+    "type": "SCALING",
+    "name": "COSMOLIVE FOAM 12 500",
+    "componentsCount": 1,
+    "price": 9,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "CREAMIT 20X750G",
+    "componentsCount": 1,
+    "price": 56,
+    "discount": 4
+  },
+  {
+    "type": "SCALING",
+    "name": "CREMORA 20X750G",
+    "componentsCount": 1,
+    "price": 58,
+    "discount": 12
+  },
+  {
+    "type": "SCALING",
+    "name": "CRINKLES 24X30G",
+    "componentsCount": 1,
+    "price": 8.5,
+    "discount": 4
+  },
+  {
+    "type": "SCALING",
+    "name": "CRINKLES 35G X 25",
+    "componentsCount": 1,
+    "price": 8,
+    "discount": 4.5
+  },
+  {
+    "type": "SCALING",
+    "name": "CRUNCHY COOKIES 20 X",
+    "componentsCount": 1,
+    "price": 30,
+    "discount": 4
+  },
+  {
+    "type": "SCALING",
+    "name": "CRYSTAL MINT 1KG",
+    "componentsCount": 1,
+    "price": 3.2,
+    "discount": 6.8
+  },
+  {
+    "type": "SCALING",
+    "name": "CRYSTAL MINTS 8X1KG",
+    "componentsCount": 1,
+    "price": 24,
+    "discount": 56
+  },
+  {
+    "type": "SCALING",
+    "name": "DANDY BOX 16X200PCS",
+    "componentsCount": 1,
+    "price": 30.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "DANDY PACK",
+    "componentsCount": 1,
+    "price": 2,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "Delta 12X300ml case",
+    "componentsCount": 1,
+    "price": 6,
+    "discount": 0
+  },
+  {
+    "type": "COMBO",
+    "name": "DELTA PET 12 X 350ML",
+    "componentsCount": 1,
+    "price": 6,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "DELTA PET 440MLS X 12",
+    "componentsCount": 1,
+    "price": 6,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "DENDAIRY 1LX6",
+    "componentsCount": 1,
+    "price": 7.9,
+    "discount": 1.1
+  },
+  {
+    "type": "SCALING",
+    "name": "DETTOL SOAP 12 X 175G",
+    "componentsCount": 1,
+    "price": 9.5,
+    "discount": 0.1
+  },
+  {
+    "type": "SCALING",
+    "name": "DETTOL SOAP 48X165G",
+    "componentsCount": 1,
+    "price": 35,
+    "discount": 3.4
+  },
+  {
+    "type": "SCALING",
+    "name": "DOMESTOS 20 X 750ML",
+    "componentsCount": 1,
+    "price": 36,
+    "discount": 4
+  },
+  {
+    "type": "SCALING",
+    "name": "DRAGON 24PACK",
+    "componentsCount": 1,
+    "price": 15,
+    "discount": 9
+  },
+  {
+    "type": "SCALING",
+    "name": "DRAGON 6X500MLS",
+    "componentsCount": 1,
+    "price": 4.25,
+    "discount": 1.75
+  },
+  {
+    "type": "SCALING",
+    "name": "ECLAIR POPS 12BAGS X 48",
+    "componentsCount": 1,
+    "price": 36,
+    "discount": 21.6
+  },
+  {
+    "type": "SCALING",
+    "name": "ECLAIR POPS 1X 48PC",
+    "componentsCount": 1,
+    "price": 3.5,
+    "discount": 1.3
+  },
+  {
+    "type": "SCALING",
+    "name": "EKONO MACARONI 3KGS",
+    "componentsCount": 1,
+    "price": 16,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "EKONO SPAGHETTI 20 X 4",
+    "componentsCount": 1,
+    "price": 8.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "ELLIS BROWN 12 X 750G",
+    "componentsCount": 1,
+    "price": 37,
+    "discount": 5
+  },
+  {
+    "type": "SCALING",
+    "name": "ELLIS BROWN 750G",
+    "componentsCount": 1,
+    "price": 3.5,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "ENJOY JUICE 24X250MLS",
+    "componentsCount": 1,
+    "price": 8.5,
+    "discount": 1.1
+  },
+  {
+    "type": "SCALING",
+    "name": "ETOO PEN 1 X 50PCS",
+    "componentsCount": 1,
+    "price": 5,
+    "discount": 5
+  },
+  {
+    "type": "SCALING",
+    "name": "ETOO PEN 20 X 50PCS",
+    "componentsCount": 1,
+    "price": 32,
+    "discount": 168
+  },
+  {
+    "type": "SCALING",
+    "name": "EUROPEAN YEAST 20X",
+    "componentsCount": 1,
+    "price": 48,
+    "discount": 12
+  },
+  {
+    "type": "SCALING",
+    "name": "EVERGOLD COOKIES BOX",
+    "componentsCount": 1,
+    "price": 4.5,
+    "discount": 2.1
+  },
+  {
+    "type": "SCALING",
+    "name": "EVERGOLD COOKIES BOX",
+    "componentsCount": 1,
+    "price": 6.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "EVERGOLD FLOUR 10 X 2KG",
+    "componentsCount": 1,
+    "price": 15,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "EVERSHARP 1X50 PCS",
+    "componentsCount": 1,
+    "price": 6,
+    "discount": 4
+  },
+  {
+    "type": "SCALING",
+    "name": "EVERSHARP 20X50S BOX",
+    "componentsCount": 1,
+    "price": 110,
+    "discount": 90
+  },
+  {
+    "type": "SCALING",
+    "name": "EVERY DAY MILK 24X400G",
+    "componentsCount": 1,
+    "price": 78,
+    "discount": 6
+  },
+  {
+    "type": "SCALING",
+    "name": "EVISM BLUE PENS",
+    "componentsCount": 1,
+    "price": 7,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "FESTIVE RICE 10X2KGS",
+    "componentsCount": 1,
+    "price": 17,
+    "discount": 5
+  },
+  {
+    "type": "SCALING",
+    "name": "FIZZI 6 X 2LT",
+    "componentsCount": 1,
+    "price": 5,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "FIZZI 750MLSX12",
+    "componentsCount": 1,
+    "price": 5,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "FLASH COOKIES 20 X 150G",
+    "componentsCount": 1,
+    "price": 6.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "FRESH PAK 24 X 80S",
+    "componentsCount": 1,
+    "price": 90,
+    "discount": 6
+  },
+  {
+    "type": "SCALING",
+    "name": "FRESH PAK 4 X 80S",
+    "componentsCount": 1,
+    "price": 15.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "FRIMAX 12 X 150G",
+    "componentsCount": 1,
+    "price": 15.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "G Day loose 20X250G",
+    "componentsCount": 1,
+    "price": 8,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "GEISHA 24 X 225G",
+    "componentsCount": 1,
+    "price": 20.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "GLORIA FLOUR 10X2KGS",
+    "componentsCount": 1,
+    "price": 18,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "GLORIA MUNCHIES 20 X 1",
+    "componentsCount": 1,
+    "price": 6.7,
+    "discount": 43.3
+  },
+  {
+    "type": "SCALING",
+    "name": "GLORIA MUNCHIES 10 X2K",
+    "componentsCount": 1,
+    "price": 13.5,
+    "discount": 31.5
+  },
+  {
+    "type": "SCALING",
+    "name": "GLORIA MUNCHIES 20 X 1",
+    "componentsCount": 1,
+    "price": 6.7,
+    "discount": 0.3
+  },
+  {
+    "type": "SCALING",
+    "name": "GLORIA MUNCHIES 6 X 1KG",
+    "componentsCount": 1,
+    "price": 12.5,
+    "discount": 2.5
+  },
+  {
+    "type": "COMBO",
+    "name": "GO JUICE 500MLSX12",
+    "componentsCount": 1,
+    "price": 6,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "GOAL BISCUITS 20X100G",
+    "componentsCount": 1,
+    "price": 5,
+    "discount": 95
+  },
+  {
+    "type": "SCALING",
+    "name": "GOGO MACARONI 5 X 1.5KG",
+    "componentsCount": 1,
+    "price": 9.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "GOLD FLAKE FLOUR 10X2KG",
+    "componentsCount": 1,
+    "price": 15,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "GOLD PARBOILED 10 X 2KG",
+    "componentsCount": 1,
+    "price": 16.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "GOLD SALT 10 X 2KGS CASE",
+    "componentsCount": 1,
+    "price": 7.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "GOLDEN GLOW COOKING",
+    "componentsCount": 1,
+    "price": 26,
+    "discount": 0.4
+  },
+  {
+    "type": "SCALING",
+    "name": "GOLDEN MUNCHIES 20X2",
+    "componentsCount": 1,
+    "price": 6.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "GOLDEN MUNCHIES 20X2",
+    "componentsCount": 1,
+    "price": 6.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "GoldStar Sugar Case 10 *",
+    "componentsCount": 1,
+    "price": 28,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "GOODLIFE COIL 60S",
+    "componentsCount": 1,
+    "price": 24.5,
+    "discount": 5.5
+  },
+  {
+    "type": "SCALING",
+    "name": "GOODLIFE INSECT SPRAY",
+    "componentsCount": 1,
+    "price": 30,
+    "discount": 6
+  },
+  {
+    "type": "SCALING",
+    "name": "GOODLIFE INSECT SPRAY",
+    "componentsCount": 1,
+    "price": 57,
+    "discount": 15
+  },
+  {
+    "type": "SCALING",
+    "name": "GRAND FINE SALT 10X2KG",
+    "componentsCount": 1,
+    "price": 7.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "GRAND FINE SALT 10X500G",
+    "componentsCount": 1,
+    "price": 2,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "GRAND SALT 10X1KG",
+    "componentsCount": 1,
+    "price": 4,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "GREEN POWER 10 X 1KG",
+    "componentsCount": 1,
+    "price": 7,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "Grown ups 12x500g",
+    "componentsCount": 1,
+    "price": 21.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "H2GO PURIFIED WATER 50",
+    "componentsCount": 1,
+    "price": 2.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "HANDY ANDY 20 X 750ML",
+    "componentsCount": 1,
+    "price": 40,
+    "discount": 10
+  },
+  {
+    "type": "SCALING",
+    "name": "HAPPY DAY DIAPERS 10X8",
+    "componentsCount": 1,
+    "price": 8.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "HAPPYDAY 50sx4",
+    "componentsCount": 1,
+    "price": 20,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "HEALTHY BITES LOOSE BIS",
+    "componentsCount": 1,
+    "price": 5.5,
+    "discount": 1.1
+  },
+  {
+    "type": "SCALING",
+    "name": "HELLO 50 X 20G",
+    "componentsCount": 1,
+    "price": 3.8,
+    "discount": 13.7
+  },
+  {
+    "type": "SCALING",
+    "name": "HI LIFE BATH SOAP 20 X 2",
+    "componentsCount": 1,
+    "price": 8.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "HULLETS 10 X 2KG",
+    "componentsCount": 1,
+    "price": 24.8,
+    "discount": 1.2
+  },
+  {
+    "type": "SCALING",
+    "name": "HYDRO BOOST WATER 12X",
+    "componentsCount": 1,
+    "price": 1.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "IDEAL FISH 5 X 155G",
+    "componentsCount": 1,
+    "price": 3.75,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "IDEAL PILCHARDS 50 X 15",
+    "componentsCount": 1,
+    "price": 33.5,
+    "discount": 4
+  },
+  {
+    "type": "SCALING",
+    "name": "IDEAL VALUE 10 X2KG",
+    "componentsCount": 1,
+    "price": 17,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "JADE BATH SOAP 20X250G",
+    "componentsCount": 1,
+    "price": 11.5,
+    "discount": 4.5
+  },
+  {
+    "type": "SCALING",
+    "name": "JIK 1.5LX6",
+    "componentsCount": 1,
+    "price": 30,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "JIK 3LX4",
+    "componentsCount": 1,
+    "price": 32,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "JOE BISC 24X135G",
+    "componentsCount": 1,
+    "price": 5,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "JUMBO 10 X 100G",
+    "componentsCount": 1,
+    "price": 2.3,
+    "discount": 0.2
+  },
+  {
+    "type": "SCALING",
+    "name": "KELLOG NOODLES 5 x 75g",
+    "componentsCount": 1,
+    "price": 1.6,
+    "discount": 0.32
+  },
+  {
+    "type": "SCALING",
+    "name": "KELLOG NOODLES 8 X 5 X",
+    "componentsCount": 1,
+    "price": 11.5,
+    "discount": 1.3
+  },
+  {
+    "type": "SCALING",
+    "name": "KELLOG NOODLES MEIGO",
+    "componentsCount": 1,
+    "price": 14,
+    "discount": 1.2
+  },
+  {
+    "type": "SCALING",
+    "name": "KELLOG NOODLES MIEGO",
+    "componentsCount": 1,
+    "price": 1.8,
+    "discount": 0.1
+  },
+  {
+    "type": "SCALING",
+    "name": "KELLOGS 28 X 500G",
+    "componentsCount": 1,
+    "price": 126,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "KOO BEANS 12 X 400G",
+    "componentsCount": 1,
+    "price": 15,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "KREMA CRUNCH BOX 200G",
+    "componentsCount": 1,
+    "price": 6.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "KUDU MATCHES BRICK",
+    "componentsCount": 1,
+    "price": 4,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "KUDU MATCHES CARTON",
+    "componentsCount": 1,
+    "price": 0.5,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "KUDUS MATCHES BOX 20X",
+    "componentsCount": 1,
+    "price": 80,
+    "discount": 20
+  },
+  {
+    "type": "SCALING",
+    "name": "LACTOGEN 12 X 400G",
+    "componentsCount": 1,
+    "price": 66,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "LACTOGEN 6 X400",
+    "componentsCount": 1,
+    "price": 33,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "LIFE HONE 9 X 300MLS",
+    "componentsCount": 1,
+    "price": 9,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "LIFEBOUY SOAP 72X115G",
+    "componentsCount": 1,
+    "price": 36,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "LIMPO 24 X 600ML BOX",
+    "componentsCount": 1,
+    "price": 90,
+    "discount": 18
+  },
+  {
+    "type": "SCALING",
+    "name": "LIMPO SPRAY 24 X 400ML",
+    "componentsCount": 1,
+    "price": 60,
+    "discount": 9
+  },
+  {
+    "type": "SCALING",
+    "name": "LIQUI FRUIT 24 X 200ML",
+    "componentsCount": 1,
+    "price": 14.4,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "LOBELS LOOSE BISCUITS 2",
+    "componentsCount": 1,
+    "price": 8,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "LUX 48 X 115G",
+    "componentsCount": 1,
+    "price": 24,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "MAHATMA RICE 10X2KG",
+    "componentsCount": 1,
+    "price": 23,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "MAQ WASHING POWDER 2",
+    "componentsCount": 1,
+    "price": 37,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "MARIE BISCUITS",
+    "componentsCount": 1,
+    "price": 4,
+    "discount": 0.8
+  },
+  {
+    "type": "SCALING",
+    "name": "MATEMBA 20 X 100G",
+    "componentsCount": 1,
+    "price": 11,
+    "discount": 9
+  },
+  {
+    "type": "SCALING",
+    "name": "MATEMBA 4 X 500G",
+    "componentsCount": 1,
+    "price": 11,
+    "discount": 4
+  },
+  {
+    "type": "SCALING",
+    "name": "MATEMBA 40 X 50G",
+    "componentsCount": 1,
+    "price": 11,
+    "discount": 9
+  },
+  {
+    "type": "SCALING",
+    "name": "MATEMBA 8 X 250G",
+    "componentsCount": 1,
+    "price": 11,
+    "discount": 5
+  },
+  {
+    "type": "SCALING",
+    "name": "MATINA SYRUP 2X5L",
+    "componentsCount": 1,
+    "price": 7.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "MAZOE BLACKBERRY 6 X 2L",
+    "componentsCount": 1,
+    "price": 21,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "MAZOE CREAMSODA 6X2L",
+    "componentsCount": 1,
+    "price": 18,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "MAZOE CRUSH 6X2L",
+    "componentsCount": 1,
+    "price": 20.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "MAZOE PEACH 6 X 2L",
+    "componentsCount": 1,
+    "price": 18,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "MAZOE RASBERRY 6X2L",
+    "componentsCount": 1,
+    "price": 18,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "MEGA ALL PURPOSE FLOU",
+    "componentsCount": 1,
+    "price": 19.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "MEGA FLOUR 4 X 5KG",
+    "componentsCount": 1,
+    "price": 18.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "MEGA FLOUR S/R 10 X 2KG",
+    "componentsCount": 1,
+    "price": 18.5,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "MEGA MACARONI 4 X 3KG",
+    "componentsCount": 1,
+    "price": 13,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "MEGA MATCHES BRICK",
+    "componentsCount": 1,
+    "price": 4,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "MEGA POPCORN 10X500G",
+    "componentsCount": 1,
+    "price": 5.5,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "MEGA POPS 48S PACK",
+    "componentsCount": 1,
+    "price": 3,
+    "discount": 1.8
+  },
+  {
+    "type": "SCALING",
+    "name": "mega pops sweets 14x48",
+    "componentsCount": 1,
+    "price": 36,
+    "discount": 6
+  },
+  {
+    "type": "SCALING",
+    "name": "MEGA SPAGHETTI 20 X 40",
+    "componentsCount": 1,
+    "price": 8.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "MHANDIRE 20PK",
+    "componentsCount": 1,
+    "price": 1,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "MILKIT 24X250MLS",
+    "componentsCount": 1,
+    "price": 10.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "MILKIT MEGA POPS 10 X 5",
+    "componentsCount": 1,
+    "price": 25,
+    "discount": 25
+  },
+  {
+    "type": "SCALING",
+    "name": "MILKIT MEGA POPS 50PCS",
+    "componentsCount": 1,
+    "price": 2.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "MINI PLASTICS BISCUITS B",
+    "componentsCount": 1,
+    "price": 3,
+    "discount": 57
+  },
+  {
+    "type": "SCALING",
+    "name": "MINUTE MAID CASE",
+    "componentsCount": 1,
+    "price": 10.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "MINUTE MAID SYRUP CASE",
+    "componentsCount": 1,
+    "price": 5,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "MONTY SUGAR BEAN IN B",
+    "componentsCount": 1,
+    "price": 9.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "MR RICE 2KG X10",
+    "componentsCount": 1,
+    "price": 17,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "NAN 12 X 400G",
+    "componentsCount": 1,
+    "price": 68,
+    "discount": 10
+  },
+  {
+    "type": "SCALING",
+    "name": "NAN 6 X 400G",
+    "componentsCount": 1,
+    "price": 34.5,
+    "discount": 4.5
+  },
+  {
+    "type": "SCALING",
+    "name": "NATURAL JOY 1 LTR BOX",
+    "componentsCount": 1,
+    "price": 5,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "NUTMELO PEANUT 6 X 1L",
+    "componentsCount": 1,
+    "price": 14.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "OLIVINE COOKING OIL 8 X",
+    "componentsCount": 1,
+    "price": 27.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "OLIVINE TOMATO 375MLX12",
+    "componentsCount": 1,
+    "price": 9.5,
+    "discount": 4.9
+  },
+  {
+    "type": "SCALING",
+    "name": "OPAL W /P 12 X 1KG",
+    "componentsCount": 1,
+    "price": 24,
+    "discount": 6
+  },
+  {
+    "type": "SCALING",
+    "name": "OPAL W/P 24 X 500G",
+    "componentsCount": 1,
+    "price": 24,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "OPAL WASHING POWDER",
+    "componentsCount": 1,
+    "price": 29,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "PEARLENTA INSTANT POR",
+    "componentsCount": 1,
+    "price": 12,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "PEPSI/GRAPE 24 X 500ML",
+    "componentsCount": 1,
+    "price": 9,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "PERFECTION LAUNDRY SO",
+    "componentsCount": 1,
+    "price": 13.5,
+    "discount": 0.9
+  },
+  {
+    "type": "SCALING",
+    "name": "PET COKE 12 X 330MLS",
+    "componentsCount": 1,
+    "price": 6,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "POTATO CHIPS 12 X 100G",
+    "componentsCount": 1,
+    "price": 10,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "PREMIER HA",
+    "componentsCount": 1,
+    "price": 5.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "PRIMO FUSILLI 4 X 2.1KG",
+    "componentsCount": 1,
+    "price": 10,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "PROMISE CASE",
+    "componentsCount": 1,
+    "price": 18,
+    "discount": 6
+  },
+  {
+    "type": "SCALING",
+    "name": "PROTEX BATH SOAP12 PACK",
+    "componentsCount": 1,
+    "price": 9,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "PROTEX BOX 8X12X175G",
+    "componentsCount": 1,
+    "price": 65,
+    "discount": 31
+  },
+  {
+    "type": "SCALING",
+    "name": "PROTON CARAMEL 20 X 2",
+    "componentsCount": 1,
+    "price": 28,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "PROTON CHOC CHIP 20 X",
+    "componentsCount": 1,
+    "price": 28,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "PROTON COOKIES 10 X 50",
+    "componentsCount": 1,
+    "price": 15.5,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "PROTON COOKIES 20X25",
+    "componentsCount": 1,
+    "price": 15.5,
+    "discount": 4.5
+  },
+  {
+    "type": "SCALING",
+    "name": "PROTON COOKIES 2KGX3",
+    "componentsCount": 1,
+    "price": 18,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "PROTON COOKIES 6 X 1KG",
+    "componentsCount": 1,
+    "price": 18,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "PURE DROP 8 X 2L",
+    "componentsCount": 1,
+    "price": 23,
+    "discount": 2.6
+  },
+  {
+    "type": "SCALING",
+    "name": "PURE HONEY X 12",
+    "componentsCount": 1,
+    "price": 9,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "QUICKBREW 24 X 50S",
+    "componentsCount": 1,
+    "price": 22.5,
+    "discount": 13.5
+  },
+  {
+    "type": "SCALING",
+    "name": "RABROY SALAD CREAM 12",
+    "componentsCount": 1,
+    "price": 15.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "RABROY SAURCE 12X375M",
+    "componentsCount": 1,
+    "price": 11.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "RAHA RICE 10X2KGS",
+    "componentsCount": 1,
+    "price": 18,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "RAHA STAR 12 X 2L",
+    "componentsCount": 1,
+    "price": 39,
+    "discount": 0.6
+  },
+  {
+    "type": "COMBO",
+    "name": "RAINBOW 10 X2KG",
+    "componentsCount": 1,
+    "price": 16.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "REAL MANA PEANUT BUTT",
+    "componentsCount": 1,
+    "price": 13.5,
+    "discount": 4.5
+  },
+  {
+    "type": "SCALING",
+    "name": "RED SEAL SALT 10 X 1KG",
+    "componentsCount": 1,
+    "price": 4,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "REDBULL 24X250MLS",
+    "componentsCount": 1,
+    "price": 24,
+    "discount": 4.8
+  },
+  {
+    "type": "SCALING",
+    "name": "REDSEAL COURSE SALT 1K",
+    "componentsCount": 1,
+    "price": 4,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "REDSEAL COURSE SALT 2KG",
+    "componentsCount": 1,
+    "price": 8,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "REDSEAL RICE 10 X2KG",
+    "componentsCount": 1,
+    "price": 19,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "REDSEAL SALT 10 X 2KG",
+    "componentsCount": 1,
+    "price": 8,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "REVIVE 12 X 500MLS",
+    "componentsCount": 1,
+    "price": 6,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "REVIVE 24 X 250ML",
+    "componentsCount": 1,
+    "price": 7,
+    "discount": 0.92
+  },
+  {
+    "type": "SCALING",
+    "name": "ROIL 8 X 2L",
+    "componentsCount": 1,
+    "price": 26,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "ROMANCE BOX 24",
+    "componentsCount": 1,
+    "price": 10,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "ROMI 500G BOX",
+    "componentsCount": 1,
+    "price": 24,
+    "discount": 4.8
+  },
+  {
+    "type": "SCALING",
+    "name": "ROYAL LOOSE BISCUITS 2",
+    "componentsCount": 1,
+    "price": 7.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "ROYCO 10 X50G",
+    "componentsCount": 1,
+    "price": 4,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "ROYCO BOX",
+    "componentsCount": 1,
+    "price": 19.5,
+    "discount": 10.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SACC FLOUR 4 X 5KG",
+    "componentsCount": 1,
+    "price": 20,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "SACC RICE 10 X2KG",
+    "componentsCount": 1,
+    "price": 16.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SATISKIN 12X1L SHOWER J",
+    "componentsCount": 1,
+    "price": 48.5,
+    "discount": 5.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SATISKIN 1L X 12",
+    "componentsCount": 1,
+    "price": 23.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SATISKIN 6 X 2L CONTAIN",
+    "componentsCount": 1,
+    "price": 23.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SOFTCARE BALE 12X8s",
+    "componentsCount": 1,
+    "price": 11,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "SOFTCARE DIAPERS BALE",
+    "componentsCount": 1,
+    "price": 27.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SOFTCARE PADS 8X6",
+    "componentsCount": 1,
+    "price": 15.5,
+    "discount": 8.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SOFTCARE PADS X 6",
+    "componentsCount": 1,
+    "price": 4.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SOFTCARE WIPES 24X80s",
+    "componentsCount": 1,
+    "price": 32,
+    "discount": 4
+  },
+  {
+    "type": "SCALING",
+    "name": "SOFTCARE WIPES BOX",
+    "componentsCount": 1,
+    "price": 13,
+    "discount": 11
+  },
+  {
+    "type": "SCALING",
+    "name": "SOFTCARE WIPES X 6",
+    "componentsCount": 1,
+    "price": 4.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SONA",
+    "componentsCount": 1,
+    "price": 17,
+    "discount": 1
+  },
+  {
+    "type": "COMBO",
+    "name": "SPOTLESS CANISTER (ALL",
+    "componentsCount": 2,
+    "price": 5,
+    "discount": 7
+  },
+  {
+    "type": "COMBO",
+    "name": "SPOTLESS THICK BLEACH",
+    "componentsCount": 5,
+    "price": 18.5,
+    "discount": 90.25
+  },
+  {
+    "type": "SCALING",
+    "name": "SPOTLESS TILE CLEANER 1",
+    "componentsCount": 1,
+    "price": 6.5,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "SPOTLESS TILE CLEANER",
+    "componentsCount": 1,
+    "price": 14,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "SPUDS 75G X20",
+    "componentsCount": 1,
+    "price": 16.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SPUDS SEA SALT 23GX25",
+    "componentsCount": 1,
+    "price": 9.5,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "SPUDS SMALL BOX",
+    "componentsCount": 1,
+    "price": 10,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "STA SOFT 9X2L",
+    "componentsCount": 1,
+    "price": 25.5,
+    "discount": 6
+  },
+  {
+    "type": "SCALING",
+    "name": "STAR MATCHES BOX X1000",
+    "componentsCount": 1,
+    "price": 25,
+    "discount": 75
+  },
+  {
+    "type": "SCALING",
+    "name": "STAR MATCHES BRICK",
+    "componentsCount": 1,
+    "price": 3,
+    "discount": 7
+  },
+  {
+    "type": "SCALING",
+    "name": "STAR MATCHES CARTON",
+    "componentsCount": 1,
+    "price": 0.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "STAY FREE 36 PADS",
+    "componentsCount": 1,
+    "price": 30,
+    "discount": 6
+  },
+  {
+    "type": "SCALING",
+    "name": "STAY FREE PADS 4PACK",
+    "componentsCount": 1,
+    "price": 3.25,
+    "discount": 0.75
+  },
+  {
+    "type": "SCALING",
+    "name": "STING 500MLSX12",
+    "componentsCount": 1,
+    "price": 5,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "STUMBO PACKET",
+    "componentsCount": 1,
+    "price": 3.5,
+    "discount": 1.3
+  },
+  {
+    "type": "SCALING",
+    "name": "SUGA SUGA 10 x 2KG",
+    "componentsCount": 1,
+    "price": 23.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SUGAR BEANS 10X500G",
+    "componentsCount": 1,
+    "price": 8.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SUN JAM 12X500G",
+    "componentsCount": 1,
+    "price": 16.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SUN JAM 6 X 900G",
+    "componentsCount": 1,
+    "price": 18.5,
+    "discount": 0.7
+  },
+  {
+    "type": "SCALING",
+    "name": "SUN SOYA 12 X 2L",
+    "componentsCount": 1,
+    "price": 37.5,
+    "discount": 0.9
+  },
+  {
+    "type": "SCALING",
+    "name": "SUN SOYA C/OIL 8X2L",
+    "componentsCount": 1,
+    "price": 25,
+    "discount": 0.6
+  },
+  {
+    "type": "SCALING",
+    "name": "SUNLIGHT LIQUID 12 X 750",
+    "componentsCount": 1,
+    "price": 9,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "SUNNY PORRIDGE 10X1KG",
+    "componentsCount": 1,
+    "price": 12.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SUPER BISCUITS 20 X 180G",
+    "componentsCount": 1,
+    "price": 6.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "SUTHA SUTHA SUGAR BEA",
+    "componentsCount": 1,
+    "price": 9,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "SWITCH 24 X 500MLS",
+    "componentsCount": 1,
+    "price": 15,
+    "discount": 9
+  },
+  {
+    "type": "SCALING",
+    "name": "SWITCH 6 X 500ML",
+    "componentsCount": 1,
+    "price": 3.75,
+    "discount": 2.25
+  },
+  {
+    "type": "SCALING",
+    "name": "THE VICTORIA JUICE 1LX6",
+    "componentsCount": 1,
+    "price": 9.8,
+    "discount": 2.2
+  },
+  {
+    "type": "SCALING",
+    "name": "TIP TOP 12 X 750ML VINEG",
+    "componentsCount": 1,
+    "price": 9,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "TODAY LOOSE BISC 20 X 1",
+    "componentsCount": 1,
+    "price": 6.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "TOMANGO SAUCE 12 X 37",
+    "componentsCount": 1,
+    "price": 10.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "TOP 10 BOX",
+    "componentsCount": 1,
+    "price": 21.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "TOP CHEF PREMIUM WHIT",
+    "componentsCount": 1,
+    "price": 17.8,
+    "discount": 2.2
+  },
+  {
+    "type": "SCALING",
+    "name": "TOP JAM 400G X12",
+    "componentsCount": 1,
+    "price": 11,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "TOP JAM 6 X900G",
+    "componentsCount": 1,
+    "price": 14.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "TOP SOCIETY PJ BOX",
+    "componentsCount": 1,
+    "price": 53.5,
+    "discount": 0.5
+  },
+  {
+    "type": "SCALING",
+    "name": "VASE 8 X 400ML",
+    "componentsCount": 1,
+    "price": 20,
+    "discount": 4
+  },
+  {
+    "type": "SCALING",
+    "name": "VASELINE 12X100MLS",
+    "componentsCount": 1,
+    "price": 10,
+    "discount": 2
+  },
+  {
+    "type": "SCALING",
+    "name": "VASELINE B/CREAM 6X40",
+    "componentsCount": 1,
+    "price": 15,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "VASELINE B/CREAM 6 X 6X",
+    "componentsCount": 1,
+    "price": 90,
+    "discount": 18
+  },
+  {
+    "type": "SCALING",
+    "name": "VASELINE LOTION 6 X 400",
+    "componentsCount": 1,
+    "price": 17.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "VASELINE LOTION 8 X 6X4",
+    "componentsCount": 1,
+    "price": 140,
+    "discount": 28
+  },
+  {
+    "type": "SCALING",
+    "name": "VASELINE NOUR ARGAN O",
+    "componentsCount": 1,
+    "price": 20,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "VASELINE NOUR ARGAN O",
+    "componentsCount": 1,
+    "price": 108,
+    "discount": 18
+  },
+  {
+    "type": "SCALING",
+    "name": "VASELINE PJ 12X12X100ML",
+    "componentsCount": 1,
+    "price": 115,
+    "discount": 29
+  },
+  {
+    "type": "SCALING",
+    "name": "VIMBA FOAM BATH 750ML",
+    "componentsCount": 1,
+    "price": 9,
+    "discount": 1.8
+  },
+  {
+    "type": "SCALING",
+    "name": "VIMBAI DISHWASH 750ML",
+    "componentsCount": 1,
+    "price": 10,
+    "discount": 4.4
+  },
+  {
+    "type": "SCALING",
+    "name": "WHITE GLO + CERA GLOW",
+    "componentsCount": 2,
+    "price": 10,
+    "discount": 4
+  },
+  {
+    "type": "COMBO",
+    "name": "WHITE GLO + CERA GLOW",
+    "componentsCount": 2,
+    "price": 10,
+    "discount": 4
+  },
+  {
+    "type": "SCALING",
+    "name": "WILD CAT CASE",
+    "componentsCount": 1,
+    "price": 5,
+    "discount": 1
+  },
+  {
+    "type": "SCALING",
+    "name": "WILDFLOWER 12 X 375ML",
+    "componentsCount": 1,
+    "price": 9,
+    "discount": 3
+  },
+  {
+    "type": "SCALING",
+    "name": "WILLARDS CORN SNACKS",
+    "componentsCount": 1,
+    "price": 3.5,
+    "discount": 1.5
+  },
+  {
+    "type": "SCALING",
+    "name": "WILLARDS CORNFLAKES 6",
+    "componentsCount": 1,
+    "price": 11.2,
+    "discount": 0.8
+  },
+  {
+    "type": "COMBO",
+    "name": "WILLARDS PEANUT BUTTE",
+    "componentsCount": 1,
+    "price": 24.5,
+    "discount": 5.5
+  },
+  {
+    "type": "SCALING",
+    "name": "WILLARDS THINGS 150GX8",
+    "componentsCount": 1,
+    "price": 5.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "WILLARDS THINGZ 10 X 75G",
+    "componentsCount": 1,
+    "price": 3.2,
+    "discount": 1.8
+  },
+  {
+    "type": "SCALING",
+    "name": "WINNER RICE 10 X2KG",
+    "componentsCount": 1,
+    "price": 16.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "WISHCREAM BOX -CHELS",
+    "componentsCount": 1,
+    "price": 9.5,
+    "discount": 2.5
+  },
+  {
+    "type": "SCALING",
+    "name": "ZIMBA 10 X 100G",
+    "componentsCount": 1,
+    "price": 2.3,
+    "discount": 0.2
+  },
+  {
+    "type": "SCALING",
+    "name": "ZIMBISCUITS 20 X 200G",
+    "componentsCount": 1,
+    "price": 6,
+    "discount": 0.6
+  },
+  {
+    "type": "SCALING",
+    "name": "ZIMGOLD 12 X 2L COOKIN",
+    "componentsCount": 1,
+    "price": 42,
+    "discount": 0
+  },
+  {
+    "type": "SCALING",
+    "name": "ZIMGOLD 12X375MLS",
+    "componentsCount": 1,
+    "price": 8.5,
+    "discount": 3.5
+  },
+  {
+    "type": "SCALING",
+    "name": "ZIMGOLD C/OIL 12 X 750ML",
+    "componentsCount": 1,
+    "price": 17,
+    "discount": 1
+  }
+]

@@ -1,0 +1,2323 @@
+
+GET-
+MART  Bundles 367 total 	 New Bundle
+All types 	Active only
+Showing 367 bundles
+TYPE 	BUNDLE 	COMPONENTS PRICE 	STATUS
+SCALING ABBIAMO BROWN VINEGA…  1 item 	3.00 	Active 	  
+SCALING ABBIAMO WHITE VINEGAR…  1 item 	3.00 	Active 	  
+SCALING ALOHA 12 X 1KG 	 1 item 27.00
+-3.00 Active 	  
+SCALING ALOHA 500G X 24 	 1 item 27.00
+-9.00 Active 	  
+SCALING ALOHA W/P 8 X 2KG 	 1 item 34.00
+-2.00 Active 	  
+SCALING AMAZON BALLGUMS 12X2… 	 1 item 20.00
+-10.00 Active 	  
+SCALING AMAZON CHOC ECLAIR P… 	 1 item 25.00
+-3.80 Active 	  
+SCALING AMAZON MONSTA POPS 1… 	 1 item 30.00
+-10.32 Active 	  
+SCALING AMAZON SHORTBREAD 32…  1 item 13.50
+-2.50 Active 	  
+SCALING AMAZON TOFFEE 50 X 12 P…  1 item 23.50
+-0.50 Active 	  
+SCALING ANGEL CARE TISSUE 18RO… 	 1 item 7.50
+-1.50 Active 	  
+SCALING ANGEL CARE TISSUE 9 RO… 	 1 item 4.00
+-0.50 Active 	  
+Search by name or product…	
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	1/25
+
+-- 1 of 25 --
+
+SCALING APPY DRINK 500MLX12 	 1 item 5.00
+-1.00 Active 	  
+SCALING APRICOT 	 1 item 	24.00 	Active 	  
+SCALING AQUA CLEAR 24 X 500ML 	 1 item 3.00
+-3.00 Active 	  
+SCALING ARENEL CREAMS 12 X 150G 	 1 item 4.00
+-0.20 Active 	  
+SCALING AROMA NOODLES BOX 	 1 item 	8.00 	Active 	  
+SCALING ASHNA VALUE RICE 10X2K… 	 1 item 16.50
+-3.50 Active 	  
+SCALING AUTHENTIC MAPUTI PACK 	 1 item
+0.90
+-0.10
+🏪 3 shop prices
+set
+Active 	  
+SCALING BALLYHOUSE BLEND APRI… 	 1 item 13.00
+-2.00
+Active 	  
+SCALING BALLYHOUSE ORANGE/M… 	 1 item 	12.00 	Active 	  
+SCALING BALLYHOUSE RASBERRY/B…  1 item 11.00
+-0.10 Active 	  
+SCALING BANTLEY 20X50 	 1 item 90.00
+-110.00 Active 	  
+SCALING BANTLEY 50 PCS 	 1 item 6.00
+-4.00 Active 	  
+SCALING BASMAT 5x4 CASE 	 1 item 38.00
+-2.00 Active 	  
+SCALING BETTER BUY SPAGHETTI 2… 	 1 item 8.40
+-1.60 Active 	  
+SCALING BETTERBUY MACARONI 3 … 	 1 item 14.00
+-2.00 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	2/25
+
+-- 2 of 25 --
+
+SCALING BIG BEN LAUNDRY SOAP 1… 	 1 item 14.80
+-3.20 Active 	  
+SCALING BIG BOOM PACKET 	 1 item 3.50
+-1.30 Active 	  
+SCALING BIG TREE CORNFLAKES 12 … 	 1 item 28.00
+-2.00 Active 	  
+SCALING BIGTREE CORNFLAKES 12 … 	 1 item 40.00
+-2.00 Active 	  
+SCALING BISKO BISC LOOSE 20X25… 	 1 item 7.80
+-2.20 Active 	  
+SCALING BISKO BLISS BITES 20X25… 	 1 item 6.50
+-3.50 Active 	  
+SCALING BISKO CRUNCHY COOKIES…  1 item 7.80
+-2.20 Active 	  
+SCALING BISKO GOAL LOOSE BISC 2…  1 item 	4.80 	Active 	  
+SCALING BITE BISCUITS 120GX20 	 1 item
+4.00
+-6.00
+🏪 2 shop prices
+set
+Active 	  
+SCALING BLUE BAND 48 X 250G ORI…  1 item 34.50
+-13.50 Active 	  
+SCALING BLUE BAND LAW FAT 48 X … 	 1 item 34.50
+-13.50 Active 	  
+SCALING BONAQUA 12X500G 	 1 item 	3.00 	Active 	  
+SCALING BONJOY BOX 	 1 item 45.00
+-3.00 Active 	  
+SCALING BOOM WASHING POWDER…  1 item 34.50
+-1.50 Active 	  
+SCALING BOOM PASTE 20X200G 	 1 item 	10.00 	Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	3/25
+
+-- 3 of 25 --
+
+SCALING BOOM W/POWDER 24 X50…  1 item 27.00
+-9.00 Active 	  
+SCALING BOOM WASH POWDER 12X…  1 item 27.00
+-3.00 Active 	  
+SCALING BRANDS BAKED BEANS 41… 	 1 item 10.00
+-0.80 Active 	  
+SCALING BRITE LITE 12X1KG 	 1 item 14.50
+-3.50 Active 	  
+SCALING BRITE LITE 24X1KG 	 1 item 30.00
+-6.00 Active 	  
+SCALING BROADROOT COOKIES BOX 	 1 item 8.00
+-152.00 Active 	  
+SCALING BULLBRANDS C-MEAT 30… 	 1 item 	12.00 	Active 	  
+SCALING BUSSBITE 20X180G 	 1 item 6.50
+-123.50 Active 	  
+SCALING BUTTER CUP MARGARINE … 	 1 item 45.50
+-2.50 Active 	  
+SCALING BUTTER CUP MARGERINE … 	 1 item 23.00
+-1.00 Active 	  
+SCALING BWANA POPCORN 10X50… 	 1 item 5.50
+-2.50 Active 	  
+SCALING C & B MAYO 12X780G 	 1 item 31.00
+-5.00 Active 	  
+SCALING C & B MAYO 6X780G 	 1 item 15.50
+-2.50 Active 	  
+SCALING CAKE BALE 12(40GX10) 	 1 item 9.50
+-2.50 Active 	  
+SCALING CAPRI RICE PARBOILED 10 …  1 item 16.50
+-1.50 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	4/25
+
+-- 4 of 25 --
+
+SCALING CAPRI SPAGHETTI 20 X 40…  1 item 8.00
+-2.00 Active 	  
+SCALING CAPTAIN GINGER WISE 24… 	 1 item 11.00
+-1.00 Active 	  
+SCALING CARTWRIGHT SOUP 12 X 7… 	 1 item 3.00
+-0.96 Active 	  
+SCALING CARTWRIGHT SOUP 6 X 12…  1 item 18.00
+-5.76 Active 	  
+SCALING CARTWRIGHT SPAGHETII … 	 1 item 	8.00 	Active 	  
+SCALING CASCADE 400MLX 20 	 1 item 9.50
+-0.50 Active 	  
+SCALING CASHEL VALLEY 410GX12 	 1 item 11.00
+-1.00 Active 	  
+SCALING CASHEL VALLEY TOMATO … 	 1 item 18.00
+-1.20 Active 	  
+COMBO CERA GLOW OIL + ARTHU… 	 2 items 13.00
+-5.50 Active 	  
+SCALING CERELAC 24X200G 	 1 item 47.00
+-1.00 Active 	  
+COMBO CERELAC 500G X6 	 1 item 25.00
+-5.00 Active 	  
+COMBO CERELAC 500GX12 	 1 item 50.00
+-10.00 Active 	  
+SCALING CERELAC 6X200G 	 1 item 11.75
+-0.25 Active 	  
+SCALING CEREVITA 24X500G 	 1 item 67.00
+-5.00 Active 	  
+SCALING CHARHONS 10 X 5OOG 	 1 item 12.50
+-2.50 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	5/25
+
+-- 5 of 25 --
+
+SCALING CHARHONS 4X2KG 	 1 item 19.50
+-4.50 Active 	  
+SCALING CHARHONS 5 X 1KG 	 1 item 13.50
+-1.50 Active 	  
+SCALING CHARHONS ATHLONE LOO…  1 item 13.50
+-1.50 Active 	  
+SCALING CHARHONS ATHLONE LOO…  1 item 12.50
+-2.50 Active 	  
+SCALING CHARHONS ATHLONE LOO…  1 item 19.50
+-4.50 Active 	  
+SCALING CHARHONS COATED BISC …  1 item 9.50
+-0.50 Active 	  
+SCALING CHELSEA COOKIES 150GX12  1 item 9.50
+-2.50 Active 	  
+SCALING CHIMOMBE 1LX6 	 1 item
+7.90
+-1.10
+🏪 1 shop price
+set
+Active 	  
+SCALING CHOC COATED 12X250G 	 1 item 16.50
+-1.50 Active 	  
+SCALING CHOMPKINS 12X100G 	 1 item 13.50
+-4.50 Active 	  
+SCALING CHOMPKINS 12X120G 	 1 item 13.50
+-0.90 Active 	  
+SCALING COCA COLA 6 X 2L 	 1 item 10.00
+-2.00 Active 	  
+SCALING COCO ZIM BISCUITS 20 X … 	 1 item 6.50
+-0.10 Active 	  
+SCALING COLGATE 12 X 50ML 	 1 item 5.50
+-0.50 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	6/25
+
+-- 6 of 25 --
+
+SCALING COLGATE 12X100ML PREP… 	 1 item 10.00
+-2.00 Active 	  
+SCALING COLGATE 6 X 12 X 50ML 	 1 item 33.00
+-3.00 Active 	  
+SCALING COLGATE 6X12X100G BOX 	 1 item 55.00
+-17.00 Active 	  
+SCALING COOKMORE 2LX8 	 1 item 	26.00 	Active 	  
+SCALING COOKMORE RICE 10X2KG 	 1 item 19.00
+-1.00 Active 	  
+SCALING CORNFLAKES 6X500G 	 1 item 11.20
+-0.80 Active 	  
+SCALING COSMOLIVE FOAM 12 500… 	 1 item 9.00
+-3.00 Active 	  
+SCALING CREAMIT 20X750G 	 1 item 56.00
+-4.00 Active 	  
+SCALING CREMORA 20X750G 	 1 item 58.00
+-12.00 Active 	  
+SCALING CRINKLES 24X30G 	 1 item 8.50
+-4.00 Active 	  
+SCALING CRINKLES 35G X 25 	 1 item 8.00
+-4.50 Active 	  
+SCALING CRINKLES 48X30G 	 1 item
+13.50
+-10.50
+🏪 1 shop price
+set
+Active 	  
+SCALING CRUNCHY COOKIES 20 X … 	 1 item 30.00
+-4.00 Active 	  
+SCALING CRYSTAL MINT 1KG 	 1 item 3.20
+-6.80 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	7/25
+
+-- 7 of 25 --
+
+SCALING CRYSTAL MINTS 8X1KG 	 1 item 24.00
+-56.00 Active 	  
+SCALING DAILY PEANUT BUTTER 12 … 	 1 item
+8.00
+-4.00
+🏪 2 shop prices
+set
+Active 	  
+SCALING DAIRIBORD STERI 12 X 500…  1 item
+8.50
+-3.50
+🏪 2 shop prices
+set
+Active 	  
+SCALING DANDY BOX 16X200PCS 	 1 item 30.50
+-1.50 Active 	  
+SCALING DANDY PACK 	 1 item 2.00
+-3.00 Active 	  
+SCALING Delta 12X300ml case 	 1 item 	6.00 	Active 	  
+COMBO DELTA PET 12 X 350ML 	 1 item 	6.00 	Active 	  
+SCALING DELTA PET 440MLS X 12 	 1 item 	6.00 	Active 	  
+SCALING DENDAIRY 1LX6 	 1 item 7.90
+-1.10 Active 	  
+SCALING DETTOL SOAP 12 X 175G 	 1 item 9.50
+-0.10 Active 	  
+SCALING DETTOL SOAP 48X165G 	 1 item 35.00
+-3.40 Active 	  
+SCALING DOMESTOS 20 X 750ML 	 1 item 36.00
+-4.00 Active 	  
+SCALING DRAGON 24PACK 	 1 item 15.00
+-9.00 Active 	  
+SCALING DRAGON 6X500MLS 	 1 item 4.25
+-1.75 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	8/25
+
+-- 8 of 25 --
+
+SCALING ECLAIR POPS 12BAGS X 48…  1 item 36.00
+-21.60 Active 	  
+SCALING ECLAIR POPS 1X 48PC 	 1 item 3.50
+-1.30 Active 	  
+SCALING EGGS CRATE X30 UNITS 	 1 item
+4.50
+🏪 1 shop price
+set
+Active 	  
+SCALING EKONO MACARONI 3KGS … 	 1 item 	16.00 	Active 	  
+SCALING EKONO SPAGHETTI 20 X 4… 	 1 item 8.50
+-1.50 Active 	  
+SCALING ELLIS BROWN 12 X 750G 	 1 item 37.00
+-5.00 Active 	  
+SCALING ELLIS BROWN 750G 	 1 item 	3.50 	Active 	  
+SCALING ENJOY JUICE 24X250MLS 	 1 item 8.50
+-1.10 Active 	  
+SCALING ETOO PEN 1 X 50PCS 	 1 item 5.00
+-5.00 Active 	  
+SCALING ETOO PEN 20 X 50PCS 	 1 item 32.00
+-168.00 Active 	  
+SCALING EUROPEAN YEAST 20X 	 1 item 48.00
+-12.00 Active 	  
+SCALING EVERGOLD COOKIES BOX … 	 1 item 4.50
+-2.10 Active 	  
+SCALING EVERGOLD COOKIES BOX … 	 1 item 6.50
+-3.50 Active 	  
+SCALING EVERGOLD FLOUR 10 X 2KG 	 1 item 15.00
+-2.00 Active 	  
+SCALING EVERSHARP 1X50 PCS 	 1 item 6.00
+-4.00 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	9/25
+
+-- 9 of 25 --
+
+SCALING EVERSHARP 20X50S BOX 	 1 item 110.00
+-90.00 Active 	  
+SCALING EVERY DAY MILK 24X400G 	 1 item 78.00
+-6.00 Active 	  
+SCALING EVISM BLUE PENS 	 1 item 7.00
+-3.00 Active 	  
+SCALING FESTIVE RICE 10X2KGS 	 1 item 17.00
+-5.00 Active 	  
+SCALING FIZZI 6 X 2LT 	 1 item 5.00
+-1.00 Active 	  
+SCALING FIZZI 750MLSX12 	 1 item 5.00
+-1.00 Active 	  
+SCALING FLASH COOKIES 20 X 150G 	 1 item 6.50
+-3.50 Active 	  
+SCALING FRESH PAK 24 X 80`S 	 1 item 90.00
+-6.00 Active 	  
+SCALING FRESH PAK 4 X 80`S 	 1 item 15.50
+-0.50 Active 	  
+SCALING FRIMAX 12 X 150G 	 1 item 15.50
+-2.50 Active 	  
+SCALING G Day loose 20X250G 	 1 item 8.00
+-2.00 Active 	  
+SCALING GEISHA 24 X 225G 	 1 item 20.50
+-3.50 Active 	  
+SCALING GLORIA FLOUR 10X2KGS 	 1 item 18.00
+-2.00 Active 	  
+SCALING GLORIA MUNCHIES 20 X 1… 	 1 item 6.70
+-43.30 Active 	  
+SCALING GLORIA MUNCHIES 10 X2K… 	 1 item 13.50
+-31.50 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	10/25
+
+-- 10 of 25 --
+
+SCALING GLORIA MUNCHIES 20 X 1… 	 1 item 6.70
+-0.30 Active 	  
+SCALING GLORIA MUNCHIES 6 X 1KG 	 1 item 12.50
+-2.50 Active 	  
+COMBO GO JUICE 500MLSX12 	 1 item 	6.00 	Active 	  
+SCALING GOAL BISCUITS 20X100G 	 1 item 5.00
+-95.00 Active 	  
+SCALING GOGO MACARONI 5 X 1.5KG  1 item 9.50
+-0.50 Active 	  
+SCALING GOLD FLAKE FLOUR 10X2KG  1 item 	15.00 	Active 	  
+SCALING GOLD PARBOILED 10 X 2KG 	 1 item 16.50
+-0.50 Active 	  
+SCALING GOLD SALT 10 X 2KGS CASE  1 item 7.50
+-2.50 Active 	  
+SCALING GOLD WHITE RICE 10 X 2KG 	 1 item
+16.50
+🏪 1 shop price
+set
+Active 	  
+SCALING GOLDEN GLOW COOKING …  1 item 26.00
+-0.40 Active 	  
+SCALING GOLDEN MUNCHIES 20X2… 	 1 item 6.50
+-3.50 Active 	  
+SCALING GOLDEN MUNCHIES 20X2… 	 1 item 6.50
+-3.50 Active 	  
+SCALING GoldStar Sugar Case 10 * … 	 1 item 	28.00 	Active 	  
+SCALING GOODLIFE COIL 60S 	 1 item 24.50
+-5.50 Active 	  
+SCALING GOODLIFE INSECT SPRAY … 	 1 item 30.00
+-6.00 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	11/25
+
+-- 11 of 25 --
+
+SCALING GOODLIFE INSECT SPRAY … 	 1 item 57.00
+-15.00 Active 	  
+SCALING GRAND FINE SALT 10X2KG 	 1 item 7.50
+-2.50 Active 	  
+SCALING GRAND FINE SALT 10X500G 	 1 item 2.00
+-0.50 Active 	  
+SCALING GRAND SALT 10X1KG 	 1 item 4.00
+-1.00 Active 	  
+SCALING GREEN POWER 10 X 1KG 	 1 item 7.00
+-3.00 Active 	  
+SCALING Grown ups 12x500g 	 1 item 21.50
+-2.50 Active 	  
+SCALING H2GO PURIFIED WATER 50…  1 item 2.50
+-0.50 Active 	  
+SCALING HANDY ANDY 20 X 750ML 	 1 item 40.00
+-10.00 Active 	  
+SCALING HAPPY DAY DIAPERS 10X8 	 1 item 8.50
+-1.50 Active 	  
+SCALING HAPPYDAY 50sx4 	 1 item 20.00
+-1.00 Active 	  
+SCALING HEALTHY BITES LOOSE BIS…  1 item 5.50
+-1.10 Active 	  
+SCALING HELLO 50 X 20G 	 1 item 3.80
+-13.70 Active 	  
+SCALING HELLO PACK 12 X 100G 	 1 item
+3.80
+-2.20
+🏪 1 shop price
+set
+Active 	  
+SCALING HI LIFE BATH SOAP 20 X 2… 	 1 item 8.50
+-1.50 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	12/25
+
+-- 12 of 25 --
+
+SCALING HULLETS 10 X 2KG 	 1 item 24.80
+-1.20 Active 	  
+SCALING HYDRO BOOST WATER 12X…  1 item 1.50
+-1.50 Active 	  
+SCALING IDEAL FISH 5 X 155G 	 1 item 	3.75 	Active 	  
+SCALING IDEAL PILCHARDS 50 X 15… 	 1 item 33.50
+-4.00 Active 	  
+SCALING IDEAL VALUE 10 X2KG 	 1 item 17.00
+-3.00 Active 	  
+SCALING JADE BATH SOAP 20X250G 	 1 item 11.50
+-4.50 Active 	  
+SCALING JIK 1.5LX6 	 1 item 30.00
+-3.00 Active 	  
+SCALING JIK 3LX4 	 1 item 	32.00 	Active 	  
+SCALING JOE BISC 24X135G 	 1 item 5.00
+-1.00 Active 	  
+SCALING JUMBO 10 X 100G 	 1 item 2.30
+-0.20 Active 	  
+SCALING JUMBO 24G PACK 	 1 item
+1.20
+-0.80
+🏪 1 shop price
+set
+Active 	  
+SCALING KELLOG NOODLES 5 x 75g 	 1 item 1.60
+-0.32 Active 	  
+SCALING KELLOG NOODLES 8 X 5 X …  1 item 11.50
+-1.30 Active 	  
+SCALING KELLOG NOODLES MEIGO… 	 1 item 14.00
+-1.20 Active 	  
+SCALING KELLOG NOODLES MIEGO… 	 1 item 1.80
+-0.10 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	13/25
+
+-- 13 of 25 --
+
+SCALING KELLOGS 28 X 500G 	 1 item 	126.00 	Active 	  
+SCALING KING KURLS PACK 	 1 item
+2.90
+-2.10
+🏪 1 shop price
+set
+Active 	  
+SCALING KING PEANUT BUTTER 12 X…  1 item
+8.00
+-4.00
+🏪 2 shop prices
+set
+Active 	  
+SCALING KOO BEANS 12 X 400G 	 1 item 	15.00 	Active 	  
+SCALING KREMA CRUNCH BOX 200G 	 1 item 6.50
+-3.50 Active 	  
+SCALING KUDU MATCHES BRICK 	 1 item 4.00
+-1.00 Active 	  
+SCALING KUDU MATCHES CARTON 	 1 item 	0.50 	Active 	  
+SCALING KUDUS MATCHES BOX 20X…  1 item 80.00
+-20.00 Active 	  
+SCALING LACTOGEN 12 X 400G 	 1 item 	66.00 	Active 	  
+SCALING LACTOGEN 6 X400 	 1 item 	33.00 	Active 	  
+SCALING LIFE HONE 9 X 300MLS 	 1 item 9.00
+-3.00 Active 	  
+SCALING LIFEBOUY SOAP 72X115G 	 1 item 	36.00 	Active 	  
+SCALING LIMPO 24 X 600ML BOX 	 1 item 90.00
+-18.00 Active 	  
+SCALING LIMPO SPRAY 24 X 400ML 	 1 item 60.00
+-9.00 Active 	  
+SCALING LIQUI FRUIT 24 X 200ML 	 1 item 	14.40 	Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	14/25
+
+-- 14 of 25 --
+
+SCALING LOBELS LOOSE BISCUITS 2…  1 item 8.00
+-2.00 Active 	  
+SCALING LUX 48 X 115G 	 1 item 	24.00 	Active 	  
+SCALING MAHATMA RICE 10X2KG 	 1 item 23.00
+-2.00 Active 	  
+SCALING MAQ WASHING POWDER 2…  1 item 37.00
+-3.00 Active 	  
+SCALING MARIE BISCUITS 	 1 item 4.00
+-0.80 Active 	  
+SCALING MATEMBA 20 X 100G 	 1 item 11.00
+-9.00 Active 	  
+SCALING MATEMBA 4 X 500G 	 1 item 11.00
+-4.00 Active 	  
+SCALING MATEMBA 40 X 50G 	 1 item 11.00
+-9.00 Active 	  
+SCALING MATEMBA 8 X 250G 	 1 item 11.00
+-5.00 Active 	  
+SCALING MATINA SYRUP 2X5L 	 1 item 7.50
+-1.50 Active 	  
+SCALING MAZOE BLACKBERRY 6 X 2L  1 item 	21.00 	Active 	  
+SCALING MAZOE CREAMSODA 6X2L 	 1 item 	18.00 	Active 	  
+SCALING MAZOE CRUSH 6X2L 	 1 item 20.50
+-3.50 Active 	  
+SCALING MAZOE PEACH 6 X 2L 	 1 item 	18.00 	Active 	  
+SCALING MAZOE RASBERRY 6X2L 	 1 item 	18.00 	Active 	  
+SCALING MEGA POPPED CORN 10x1… 	 1 item
+3.15
+-0.05 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	15/25
+
+-- 15 of 25 --
+
+🏪 2 shop prices
+set
+SCALING MEGA ALL PURPOSE FLOU… 	 1 item 19.50
+-0.50 Active 	  
+SCALING MEGA FLOUR 4 X 5KG 	 1 item 18.50
+-1.50 Active 	  
+SCALING MEGA FLOUR S/R 10 X 2KG 	 1 item 18.50
+-1.50
+Active 	  
+SCALING MEGA MACARONI 4 X 3KG 	 1 item 13.00
+-3.00 Active 	  
+SCALING MEGA MATCHES BRICK 	 1 item 4.00
+-1.00 Active 	  
+SCALING MEGA POPCORN 10X500G 	 1 item 5.50
+-4.50
+Active 	  
+SCALING MEGA POPS 48S PACK 	 1 item 3.00
+-1.80 Active 	  
+SCALING mega pops sweets 14x48 	 1 item 36.00
+-6.00 Active 	  
+SCALING MEGA SNACKS ONION 10x…  1 item
+3.20
+🏪 1 shop price
+set
+Active 	  
+SCALING MEGA SNAX CHICKEN 10x… 	 1 item
+3.30
+🏪 1 shop price
+set
+Active 	  
+SCALING MEGA SPAGHETTI 20 X 40…  1 item 8.50
+-1.50 Active 	  
+SCALING MHANDIRE 20PK 	 1 item 	1.00 	Active 	  
+SCALING MILKIT 24X250MLS 	 1 item 10.50
+-1.50 Active 	  
+SCALING MILKIT MEGA POPS 10 X 5… 	 1 item 25.00
+-25.00 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	16/25
+
+-- 16 of 25 --
+
+SCALING MILKIT MEGA POPS 50PCS 	 1 item 2.50
+-2.50 Active 	  
+SCALING MINI PLASTICS BISCUITS B…  1 item 3.00
+-57.00 Active 	  
+SCALING MINUTE MAID CASE 	 1 item 10.50
+-1.50 Active 	  
+SCALING MINUTE MAID SYRUP CASE 	 1 item 5.00
+-1.00 Active 	  
+SCALING MONTY SUGAR BEAN IN B… 	 1 item 9.50
+-2.50 Active 	  
+SCALING MONTYS BEANS 410GX12 	 1 item
+9.50
+-0.10
+🏪 2 shop prices
+set
+Active 	  
+SCALING MR RICE 2KG X10 	 1 item 17.00
+-3.00 Active 	  
+SCALING NAN 12 X 400G 	 1 item 68.00
+-10.00 Active 	  
+SCALING NAN 6 X 400G 	 1 item 34.50
+-4.50 Active 	  
+SCALING NATURAL JOY 1 LTR BOX 	 1 item 5.00
+-1.00 Active 	  
+SCALING NUTMELO PEANUT 6 X 1L 	 1 item 14.50
+-0.50 Active 	  
+SCALING NUTMELO PEANUT BUTTE… 	 1 item
+8.00
+-4.00
+🏪 2 shop prices
+set
+Active 	  
+SCALING OLIVINE COOKING OIL 8 X …  1 item 27.50
+-0.50 Active 	  
+SCALING OLIVINE TOMATO 375MLX12  1 item 9.50
+-4.90 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	17/25
+
+-- 17 of 25 --
+
+SCALING OPAL W /P 12 X 1KG 	 1 item 24.00
+-6.00 Active 	  
+SCALING OPAL W/P 24 X 500G 	 1 item 	24.00 	Active 	  
+SCALING OPAL WASHING POWDER … 	 1 item 29.00
+-3.00 Active 	  
+SCALING PEARLENTA INSTANT POR… 	 1 item 12.00
+-3.00 Active 	  
+SCALING PEPSI/GRAPE 24 X 500ML 	 1 item 9.00
+-3.00 Active 	  
+SCALING PERFECTION LAUNDRY SO… 	 1 item 13.50
+-0.90 Active 	  
+SCALING PET COKE 12 X 330MLS 	 1 item 	6.00 	Active 	  
+SCALING PFUKO BUTTER-MILK 12PK 	 1 item
+5.90
+-1.30
+🏪 2 shop prices
+set
+Active 	  
+SCALING POTATO CHIPS 12 X 100G 	 1 item 10.00
+-2.00 Active 	  
+SCALING PREMIER HA 	 1 item 5.50
+-0.50 Active 	  
+SCALING PRIMO FUSILLI 4 X 2.1KG 	 1 item 10.00
+-2.00 Active 	  
+SCALING PROMISE CASE 	 1 item 18.00
+-6.00 Active 	  
+SCALING PROTEX BATH SOAP12 PACK  1 item 9.00
+-3.00 Active 	  
+SCALING PROTEX BOX 8X12X175G 	 1 item 65.00
+-31.00 Active 	  
+SCALING PROTON CARAMEL 20 X 2… 	 1 item 28.00
+-2.00 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	18/25
+
+-- 18 of 25 --
+
+SCALING PROTON CHOC CHIP 20 X … 	 1 item 28.00
+-2.00 Active 	  
+SCALING PROTON COOKIES 10 X 50… 	 1 item 	15.50 	Active 	  
+SCALING PROTON COOKIES 20X25… 	 1 item 15.50
+-4.50 Active 	  
+SCALING PROTON COOKIES 2KGX3 	 1 item 	18.00 	Active 	  
+SCALING PROTON COOKIES 6 X 1KG 	 1 item 	18.00 	Active 	  
+SCALING PURE DROP 8 X 2L 	 1 item 23.00
+-2.60 Active 	  
+SCALING PURE HONEY X 12 	 1 item 9.00
+-3.00 Active 	  
+SCALING QUICKBREW 24 X 50S 	 1 item 22.50
+-13.50 Active 	  
+SCALING RABROY SALAD CREAM 12… 	 1 item 15.50
+-2.50 Active 	  
+SCALING RABROY SAURCE 12X375M…  1 item 11.50
+-0.50 Active 	  
+SCALING RAHA RICE 10X2KGS 	 1 item 18.00
+-2.00 Active 	  
+SCALING RAHA STAR 12 X 2L 	 1 item 39.00
+-0.60 Active 	  
+COMBO RAINBOW 10 X2KG 	 1 item 16.50
+-0.50 Active 	  
+SCALING REAL MANA PEANUT BUTT…  1 item 13.50
+-4.50 Active 	  
+SCALING RED SEAL SALT 10 X 1KG 	 1 item 4.00
+-1.00 Active 	  
+SCALING REDBULL 24X250MLS 	 1 item 24.00
+-4.80 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	19/25
+
+-- 19 of 25 --
+
+SCALING REDSEAL COURSE SALT 1K… 	 1 item 4.00
+-1.00 Active 	  
+SCALING REDSEAL COURSE SALT 2KG  1 item 8.00
+-2.00 Active 	  
+SCALING REDSEAL RICE 10 X2KG 	 1 item 19.00
+-1.00 Active 	  
+SCALING REDSEAL SALT 10 X 2KG 	 1 item 8.00
+-2.00 Active 	  
+SCALING REVIVE 12 X 500MLS 	 1 item 	6.00 	Active 	  
+SCALING REVIVE 24 X 250ML 	 1 item 7.00
+-0.92 Active 	  
+SCALING ROIL 8 X 2L 	 1 item 26.00
+-2.00 Active 	  
+SCALING ROMANCE BOX 24 	 1 item 10.00
+-2.00 Active 	  
+SCALING ROMI 500G BOX 	 1 item 24.00
+-4.80 Active 	  
+SCALING ROYAL LOOSE BISCUITS 2… 	 1 item 7.50
+-0.50 Active 	  
+SCALING ROYCO 10 X50G 	 1 item 4.00
+-1.00 Active 	  
+SCALING ROYCO BOX 	 1 item 19.50
+-10.50 Active 	  
+SCALING SACC FLOUR 4 X 5KG 	 1 item 	20.00 	Active 	  
+SCALING SACC RICE 10 X2KG 	 1 item 16.50
+-0.50 Active 	  
+SCALING SATISKIN 12X1L SHOWER J… 	 1 item 48.50
+-5.50 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	20/25
+
+-- 20 of 25 --
+
+SCALING SATISKIN 1L X 12 	 1 item 23.50
+-0.50 Active 	  
+SCALING SATISKIN 6 X 2L CONTAIN… 	 1 item 23.50
+-0.50 Active 	  
+SCALING SOFTCARE BALE 12X8s 	 1 item 11.00
+-1.00 Active 	  
+SCALING SOFTCARE DIAPERS BALE… 	 1 item 27.50
+-2.50 Active 	  
+SCALING SOFTCARE PADS 8X6 	 1 item 15.50
+-8.50 Active 	  
+SCALING SOFTCARE PADS X 6 	 1 item 4.50
+-1.50 Active 	  
+SCALING SOFTCARE WIPES 24X80's 	 1 item 32.00
+-4.00 Active 	  
+SCALING SOFTCARE WIPES BOX 	 1 item 13.00
+-11.00 Active 	  
+SCALING SOFTCARE WIPES X 6 	 1 item 4.50
+-1.50 Active 	  
+SCALING SONA 	 1 item 17.00
+-1.00 Active 	  
+COMBO SPOTLESS CANISTER (ALL …  2 items 5.00
+-7.00 Active 	  
+COMBO SPOTLESS THICK BLEACH … 	 5 items 18.50
+-90.25 Active 	  
+SCALING SPOTLESS TILE CLEANER 1…  1 item 	6.50 	Active 	  
+SCALING SPOTLESS TILE CLEANER … 	 1 item 14.00
+-1.00 Active 	  
+SCALING SPUDS 75G X20 	 1 item 16.50
+-3.50 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	21/25
+
+-- 21 of 25 --
+
+SCALING SPUDS SEA SALT 23GX25 	 1 item 9.50
+-3.00 Active 	  
+SCALING SPUDS SMALL BOX 	 1 item 10.00
+-2.50 Active 	  
+SCALING STA SOFT 9X2L 	 1 item 25.50
+-6.00 Active 	  
+SCALING STAR MATCHES BOX X1000 	 1 item 25.00
+-75.00 Active 	  
+SCALING STAR MATCHES BRICK 	 1 item 3.00
+-7.00 Active 	  
+SCALING STAR MATCHES CARTON 	 1 item 0.50
+-0.50 Active 	  
+SCALING STAY FREE 36 PADS 	 1 item 30.00
+-6.00 Active 	  
+SCALING STAY FREE PADS 4PACK 	 1 item 3.25
+-0.75 Active 	  
+SCALING STING 500MLSX12 	 1 item 5.00
+-1.00 Active 	  
+SCALING STUMBO PACKET 	 1 item 3.50
+-1.30 Active 	  
+SCALING SUGA SUGA 10 x 2KG 	 1 item 23.50
+-0.50 Active 	  
+SCALING SUGAR BEANS 10X500G 	 1 item 8.50
+-1.50 Active 	  
+SCALING SUN JAM 12X500G 	 1 item 16.50
+-1.50 Active 	  
+SCALING SUN JAM 6 X 900G 	 1 item 18.50
+-0.70 Active 	  
+SCALING SUN SOYA 12 X 2L 	 1 item 37.50
+-0.90 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	22/25
+
+-- 22 of 25 --
+
+SCALING SUN SOYA C/OIL 8X2L 	 1 item 25.00
+-0.60 Active 	  
+SCALING SUNLIGHT LIQUID 12 X 750…  1 item 9.00
+-1.00 Active 	  
+SCALING SUNNY PORRIDGE 10X1KG 	 1 item 12.50
+-2.50 Active 	  
+SCALING SUPER BISCUITS 20 X 180G 	 1 item 6.50
+-0.50 Active 	  
+SCALING SUTHA SUTHA SUGAR BEA…  1 item 9.00
+-1.00 Active 	  
+SCALING SWITCH 24 X 500MLS 	 1 item 15.00
+-9.00 Active 	  
+SCALING SWITCH 6 X 500ML 	 1 item 3.75
+-2.25 Active 	  
+SCALING THE VICTORIA JUICE 1LX6 	 1 item 9.80
+-2.20 Active 	  
+SCALING TIP TOP 12 X 750ML VINEG…  1 item 9.00
+-3.00 Active 	  
+SCALING TODAY LOOSE BISC 20 X 1… 	 1 item 6.50
+-3.50 Active 	  
+SCALING TOMANGO SAUCE 12 X 37… 	 1 item 10.50
+-1.50 Active 	  
+SCALING TOP 10 BOX 	 1 item 21.50
+-3.50 Active 	  
+SCALING TOP CHEF PREMIUM WHIT… 	 1 item 17.80
+-2.20 Active 	  
+SCALING TOP JAM 400G X12 	 1 item 11.00
+-1.00 Active 	  
+SCALING TOP JAM 6 X900G 	 1 item 14.50
+-3.50 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	23/25
+
+-- 23 of 25 --
+
+SCALING TOP SOCIETY PJ BOX 	 1 item 53.50
+-0.50 Active 	  
+SCALING VASE 8 X 400ML 	 1 item 20.00
+-4.00 Active 	  
+SCALING VASELINE 12X100MLS 	 1 item 10.00
+-2.00 Active 	  
+SCALING VASELINE B/CREAM 6X40… 	 1 item 15.00
+-3.00 Active 	  
+SCALING VASELINE B/CREAM 6 X 6X…  1 item 90.00
+-18.00 Active 	  
+SCALING VASELINE LOTION 6 X 400…  1 item 17.50
+-3.50 Active 	  
+SCALING VASELINE LOTION 8 X 6X4… 	 1 item 140.00
+-28.00 Active 	  
+SCALING VASELINE NOUR ARGAN O…  1 item 20.00
+-1.00 Active 	  
+SCALING VASELINE NOUR ARGAN O…  1 item 108.00
+-18.00 Active 	  
+SCALING VASELINE PJ 12X12X100ML 	 1 item 115.00
+-29.00 Active 	  
+SCALING VIMBA FOAM BATH 750ML…  1 item 9.00
+-1.80 Active 	  
+SCALING VIMBAI DISHWASH 750ML… 	 1 item 10.00
+-4.40 Active 	  
+SCALING WHITE GLO + CERA GLOW …  2 items 10.00
+-4.00 Active 	  
+COMBO WHITE GLO + CERA GLOW …  2 items 10.00
+-4.00 Active 	  
+SCALING WILD CAT CASE 	 1 item 5.00
+-1.00 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	24/25
+
+-- 24 of 25 --
+
+SCALING WILDFLOWER 12 X 375ML 	 1 item 9.00
+-3.00 Active 	  
+SCALING WILLARDS CORN SNACKS …  1 item 3.50
+-1.50 Active 	  
+SCALING WILLARDS CORNFLAKES 6…  1 item 11.20
+-0.80 Active 	  
+COMBO WILLARDS PEANUT BUTTE…  1 item 24.50
+-5.50 Active 	  
+SCALING WILLARDS THINGS 150GX8 	 1 item 5.50
+-2.50 Active 	  
+SCALING WILLARDS THINGZ 10 X 75G  1 item 3.20
+-1.80 Active 	  
+SCALING WINNER RICE 10 X2KG 	 1 item 16.50
+-3.50 Active 	  
+SCALING WISHCREAM BOX -CHELS… 	 1 item 9.50
+-2.50 Active 	  
+SCALING ZAPNAX GANGO 10PK 	 1 item
+2.30
+-1.00
+🏪 1 shop price
+set
+Active 	  
+SCALING ZIMBA 10 X 100G 	 1 item 2.30
+-0.20 Active 	  
+SCALING ZIMBISCUITS 20 X 200G 	 1 item 6.00
+-0.60 Active 	  
+SCALING ZIMGOLD 12 X 2L COOKIN… 	 1 item 	42.00 	Active 	  
+SCALING ZIMGOLD 12X375MLS 	 1 item 8.50
+-3.50 Active 	  
+SCALING ZIMGOLD C/OIL 12 X 750ML 	 1 item 17.00
+-1.00 Active 	  
+ 	
+
+
+ Home
+POS
+Cashier
+
+POS
+Quick
+Entry	
+ Orders
+ Product
+ Bundles
+ Breakag
+ Purchas
+
+Purchas
+Returns
+ Warehou
+
+Stock
+Moveme
+ Shops
+
+Shift
+Reconci
+
+Stock
+Takes
+
+Stock
+History
+ Custome
+ Supplier
+ Sales
+
+Suspicio
+Sales
+Analysis	
+
+Credit
+Notes	Corpora
+Invoicing
+ Analytic
+
+Profit
+Analysis
+
+Stock
+Moveme
+Analysis
+
+Product
+Perform
+
+Cashier
+ GET-MART
+11/2/26, 8:19 AM 	GET-MART
+69.197.152.202:8010/bundles 	25/25
+
+-- 25 of 25 --
+
